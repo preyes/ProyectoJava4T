@@ -8,8 +8,8 @@ public class Auto {
     Auto(String marca, String patente, String color) {
 
         this.marca = marca;
-        this.patente = p;
-        this.color = c;
+        this.patente = patente;
+        this.color = color;
 
     }
 

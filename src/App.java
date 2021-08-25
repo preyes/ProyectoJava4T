@@ -7,8 +7,5 @@ public class App {
 
         Auto auto2 = new Auto("FIAT", "AAA-123", "VERDE");
 
-        boolean z = true;
-        auto1.encender(z);
-
     }
 }
