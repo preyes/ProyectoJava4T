@@ -33,7 +33,7 @@ public class Main {
 
         }
 
-        Scanner teclado = new Scanner(System.in);
+        // Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese la cantidad de Provincias a procesar");
 
         String[] provincias = new String[4];// aqui va la cantidad de provincias
