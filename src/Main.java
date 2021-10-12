@@ -35,7 +35,7 @@ public class Main {
         for (int f = 0; f < arreglo.length; f++) {
 
             System.out.println(arreglo[f]);
-            acum = arreglo[f] + acum;
+            acum = arreglo[f] + acum; // acumulador con arreglo
         }
 
         String[] paises = { "Argentina", "Peru", "Brasil" };
